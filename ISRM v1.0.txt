@@ -1,0 +1,7 @@
+﻿ISRM v1.0
+Public Release
+February 2026
+
+
+This version is closed.
+All subsequent modifications must increment version number.

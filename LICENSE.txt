@@ -1,0 +1,25 @@
+﻿Creative Commons Zero v1.0 Universal (CC0 1.0)
+
+
+The Indiana Structural Rupture Model (ISRM) v1.0 is released into the public domain.
+
+
+You may:
+- Copy
+- Modify
+- Distribute
+- Use commercially
+- Use non-commercially
+
+
+No attribution required.
+No restrictions imposed.
+
+
+The model is provided "as is" without warranty of any kind.
+
+
+The author(s) disclaim liability for misuse or misinterpretation.
+
+
+Public domain dedication effective February 2026.

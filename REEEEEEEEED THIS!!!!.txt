@@ -1,0 +1,16 @@
+﻿Empirical Replication Statement
+ISRM v1.0 includes a complete formal model specification and a working reference implementation (isrm_v1_pipeline.py).
+The model computes Structural Pressure (SP) from a conforming state-year dataset containing the required variables.
+ISRM v1.0 does not include a bundled national dataset.
+All required variables are available from official public U.S. government sources (Census, ACS, CDC NVSS, FBI UCR, BJS, MIT/UF Election Lab, AmeriCorps). However, assembling the full multi-year panel requires standard public-data engineering steps, including:
+* Extraction from official PDF or HTML tables where necessary
+
+* Census metro aggregation
+
+* Documented interpolation for decennial urban share
+
+* Limited hold-forward for election-cycle turnout
+
+These steps are common in public policy research and are not automated into a single API-only script in this release.
+Researchers may assemble the panel independently using the cited sources and run the provided pipeline without modification.
+No synthetic data are included in this release.
